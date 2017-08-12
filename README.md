@@ -79,26 +79,26 @@ Any publicly available data sets can be used in creating a solution to this chal
 
 ### City of Peoria Infrastructure Projects
 
-+ [Arterial Road Reconstruction](https://github.com/peterkobak-private/construction/tree/master/Data/Arterial%20Reconstruction) - Construction projects on higher volume roads and streets in an urban setting.
-+ [Pavement Projects 2014](https://github.com/peterkobak-private/construction/tree/master/Data/Pavement%20Projects%202014) - Pavement preservation projects carried out in 2014.
-+ [Pavement Projects 2015](https://github.com/peterkobak-private/construction/tree/master/Data/Pavement%20Projects%202015) - Pavement preservation projects carried out in 2015.
-+ [Pavement Projects 2016](https://github.com/peterkobak-private/construction/tree/master/Data/Pavement%20Projects%202016) - Pavement preservation projects carried out in 2016.
-+ [Pavement Projects 2017](https://github.com/peterkobak-private/construction/tree/master/Data/Pavement%20Projects%202017) - Pavement preservation projects carried out in 2017.
-+ [Ramp Construction](https://github.com/peterkobak-private/construction/tree/master/Data/Ramp%20Construction) - Construction of ADA-accessible sidewalk ramps.
-+ [Residential Reconstruction](https://github.com/peterkobak-private/construction/tree/master/Data/Residential%20Reconstruction) - Construction projects on lower volume streets that make up neighborhoods. 
-+ [Sidewalk Construction](https://github.com/peterkobak-private/construction/tree/master/Data/Sidewalk%20Construction) - Construction projects on sidewalks in the City of Peoria. 
++ [Arterial Road Reconstruction](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Arterial%20Reconstruction) - Construction projects on higher volume roads and streets in an urban setting.
++ [Pavement Projects 2014](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Pavement%20Projects%202014) - Pavement preservation projects carried out in 2014.
++ [Pavement Projects 2015](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Pavement%20Projects%202015) - Pavement preservation projects carried out in 2015.
++ [Pavement Projects 2016](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Pavement%20Projects%202016) - Pavement preservation projects carried out in 2016.
++ [Pavement Projects 2017](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Pavement%20Projects%202017) - Pavement preservation projects carried out in 2017.
++ [Ramp Construction](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Ramp%20Construction) - Construction of ADA-accessible sidewalk ramps.
++ [Residential Reconstruction](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Residential%20Reconstruction) - Construction projects on lower volume streets that make up neighborhoods. 
++ [Sidewalk Construction](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Sidewalk%20Construction) - Construction projects on sidewalks in the City of Peoria. 
 
 ### Relevant City of Peoria Data Sets
 
-+ [Bike Trails on Roads](https://github.com/peterkobak-private/construction/tree/master/Data/Bike%20Trails%20on%20Roads) - Road segments that contain bike paths.
-+ [Bike Trails](https://github.com/peterkobak-private/construction/tree/master/Data/Bike%20Trails) - Bike trails constructed off of the public right-of-way.
-+ [Bus Routes](https://github.com/peterkobak-private/construction/tree/master/Data/Bus%20Routes) - Routes served by CityLink buses. 
-+ [Bus Stop Shelters](https://github.com/peterkobak-private/construction/tree/master/Data/Bus%20Stop%20Shelters) - Location of shelters placed along routes served by CityLink buses.
-+ [City of Peoria Boundary](https://github.com/peterkobak-private/construction/tree/master/Data/City%20of%20Peoria%20Municipal%20Boundary) - Geographical boundary of the City of Peoria.
-+ [City of Peoria Centerlines](https://github.com/peterkobak-private/construction/tree/master/Data/City%20of%20Peoria%20Centerlines) - The centerline of roadways for the City of Peoria.
-+ [City of Peoria Council District Boundaries](https://github.com/peterkobak-private/construction/tree/master/Data/City%20of%20Peoria%20Council%20Districts) - Geographical boundaries of City of Peoria Council Districts.
-+ [City of Peoria Neighborhood Associations](https://github.com/peterkobak-private/construction/tree/master/Data/City%20of%20Peoria%20Neighborhood%20Associations) - Geographical Boundaries of Neighborhood Associations that have notified the City of Peoria of their organization.
-+ [Trash Cans at Bus Stops](https://github.com/peterkobak-private/construction/tree/master/Data/Trash%20Cans%20at%20Bus%20Stops) - Location of trash cans at CityLink bus stops.
++ [Bike Trails on Roads](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Bike%20Trails%20on%20Roads) - Road segments that contain bike paths.
++ [Bike Trails](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Bike%20Trails) - Bike trails constructed off of the public right-of-way.
++ [Bus Routes](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Bus%20Routes) - Routes served by CityLink buses. 
++ [Bus Stop Shelters](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Bus%20Stop%20Shelters) - Location of shelters placed along routes served by CityLink buses.
++ [City of Peoria Boundary](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/City%20of%20Peoria%20Municipal%20Boundary) - Geographical boundary of the City of Peoria.
++ [City of Peoria Centerlines](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/City%20of%20Peoria%20Centerlines) - The centerline of roadways for the City of Peoria.
++ [City of Peoria Council District Boundaries](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/City%20of%20Peoria%20Council%20Districts) - Geographical boundaries of City of Peoria Council Districts.
++ [City of Peoria Neighborhood Associations](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/City%20of%20Peoria%20Neighborhood%20Associations) - Geographical Boundaries of Neighborhood Associations that have notified the City of Peoria of their organization.
++ [Trash Cans at Bus Stops](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Data/Trash%20Cans%20at%20Bus%20Stops) - Location of trash cans at CityLink bus stops.
 
 ### Relevant Non-City of Peoria Data Sets
 
@@ -115,12 +115,12 @@ Any publicly available data sets can be used in creating a solution to this chal
 *If you are competing on a team:*  
 1. Create an organization on Github [(tutorial on creating organizations)](https://help.github.com/articles/creating-a-new-organization-from-scratch/)  
 2. Fork this repository to your organization. [(tutorial on forking)](https://guides.github.com/activities/forking/)  
-3. You must fill in the [Project Submission Template](https://github.com/peterkobak-private/construction/tree/master/Project%20Submission%20Template) as a template to help judges, other team members, and the public at large to understand your project at a glance. 
+3. You must fill in the [Project Submission Template](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Project%20Submission%20Template) as a template to help judges, other team members, and the public at large to understand your project at a glance. 
 4. The last changes you push to your organization's forked repo before 7:00PM CST on August 12, 2017 are your official submission for the judging period of the Civic Hackathon.
 
 *If you are competing as an individual:*  
 1. Fork this repository to your personal Github account. [(tutorial on forking)](https://guides.github.com/activities/forking/) 
-3. You must fill in the [Project Submission Template](https://github.com/peterkobak-private/construction/tree/master/Project%20Submission%20Template) as a template to help judges, other team members, and the public at large to understand your project at a glance. 
+3. You must fill in the [Project Submission Template](https://github.com/cityofpeoria/peoriacivichackathon2017/tree/master/Project%20Submission%20Template) as a template to help judges, other team members, and the public at large to understand your project at a glance. 
 4. The last changes you push to your forked repo before 7:00PM CST on August 12, 2017 are your official submission for the judging period of the Civic Hackathon.
 
 ## Additional Resources
