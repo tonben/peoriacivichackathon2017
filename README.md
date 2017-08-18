@@ -1,3 +1,12 @@
+***
+>:exclamation: *The Peoria Civic Hackathon occured on August 12, 2017.*
+>*This repository is an archive of the challenge statement that was revealed to participants at the start of the event.*
+
+>- *Projects built at the event exist as [forks to this repository](https://github.com/cityofpeoria/peoriacivichackathon2017/network/members).*
+>- *See photos from the event on the [City of Peoria's Facebook Page](https://www.facebook.com/pg/peoriail/photos/?tab=album&album_id=1535028153220818)*
+>- *Want to be a part of future civic hackathons in Peoria? [Send us an e-mail and let us know!](mailto:pkobak@peoriagov.org?>Subject=I%want%to%be%involved%in%the%next%civic%hackathon!)*
+***
+
 # Peoria Civic Hackathon 2017 Challenge Statement
 
 Get to know the Challenge Statement for the Peoria Civic Hackathon 2017. You can learn more about the Hackathon at www.peoriacivichackathon.org.
