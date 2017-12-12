@@ -1,6 +1,6 @@
-# Peoria Civic Hackathon Submission Example
+# Normal Civic Hackathon Submission Example
 
-This is a sample submission for the Peoria Civic Hackathon. This is just a sample of what your repo can look like when you submit it
+This is a sample submission for the Normal Civic Hackathon. This is just a sample of what your repo can look like when you submit it
 to us as part of the final process for judging the hackathon.
 
 ## Description
