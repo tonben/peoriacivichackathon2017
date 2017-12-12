@@ -7,7 +7,7 @@
 >- *Want to be a part of future civic hackathons in Peoria? [Send us an e-mail and let us know!](mailto:pkobak@peoriagov.org?>Subject=I%want%to%be%involved%in%the%next%civic%hackathon!)*
 ***
 
-# Peoria Civic Hackathon 2017 Challenge Statement
+# Normal Civic Hackathon 2017 Challenge Statement
 
 Get to know the Challenge Statement for the Peoria Civic Hackathon 2017. You can learn more about the Hackathon at www.peoriacivichackathon.org.
 
